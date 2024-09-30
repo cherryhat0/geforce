@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GeForce NOW Link</title>
+    <meta http-equiv="refresh" content="0; url=https://play.geforcenow.com">
 </head>
 <body>
-    <h1>Welcome to GeForce NOW</h1>
-    <p><a href="https://play.geforcenow.com" target="_blank">Click here to play Fortnite on GeForce NOW</a></p>
+    <h1>Redirecting to GeForce NOW...</h1>
+    <p>If you are not redirected, <a href="https://play.geforcenow.com">click here</a>.</p>
 </body>
 </html>
